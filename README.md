@@ -10,5 +10,6 @@ For more information about the project, please read the Final Report.
 
 ### Note
 * My car passed the Race Day requirements
+* My car passed the extra credit requirements 
 * My Final Report received a score of 88/100
 * Due to academic honesty reasons, please do not use or copy my code and report if you are currently enrolled in EE3
